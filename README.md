@@ -1,4 +1,4 @@
-# Site-adout_me - это сайт визитка Клима Воробьева
+# Site-adout_me - сайт визитка Клима Воробьева
 должность Junior Front-end разработчик, верстальщик HTML5, CSS3.
 
 Почта: klimvorobev@mail.ru
