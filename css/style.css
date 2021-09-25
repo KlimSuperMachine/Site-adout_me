@@ -74,6 +74,20 @@ body {
   max-width: 1180px;
   margin: 0 auto; }
 
+/*.container {
+    max-width: $maxWidthContainer + px;
+    margin: 0 auto;
+    @media (max-width: $md1+px) {
+        max-width: 970px;
+    }
+    @media (max-width: $md2+px) {
+        max-width: 750px;
+    }
+    @media (max-width: $md3+px) {
+        max-width: none;
+        padding: 0 10px;
+    }
+} */
 .container2 {
   max-width: 1080px;
   margin: 0 auto; }
@@ -106,7 +120,7 @@ body {
   left: 0;
   width: 100vw;
   background-color: rgba(46, 52, 74, 0.6);
-  z-index: 1; }
+  z-index: 10; }
   .main-nav__row {
     padding: 0 20px;
     display: -webkit-box;
