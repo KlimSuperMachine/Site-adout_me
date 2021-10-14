@@ -1,13 +1,7 @@
-/*$(document).ready(function () {
-   $('.main-header__burger').click(function (event) {
-      $('.main-header__burger,.main-nav').toggleClass('active');
-      $('body').toggleClass('lock');
-   });
-});*/
+"use strict"
 
+// Меню бургер========================================================================================================
 
-
-// Меню бургер
 const iconMenu = document.querySelector('.main-header__burger');
 const menuBody = document.querySelector('.main-nav');
 if (iconMenu) {
@@ -19,8 +13,8 @@ if (iconMenu) {
 }
 
 
+// Прокрутка при клике===============================================================================================
 
-// Прокрутка при клике
 const menuLinks = document.querySelectorAll('.nav__link[data-goto]');
 if (menuLinks.length > 0) {
    menuLinks.forEach(menuLink => {
