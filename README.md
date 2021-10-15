@@ -5,4 +5,4 @@
 
 Телефон: +7(926) 842-84-92
 
-Открыть сайт: https://klimsupermachine.github.io/Site-adout_me/
+Открыть сайт: https://ksm2019.ru
